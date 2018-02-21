@@ -2,7 +2,7 @@
 Idea Share Platform - created using Laravel 5 Framework
 
 
-# Project Title
+# Description
 
 This project is for different user to share an amazing idea with other user on different topics. user can comment on other users idea & generate their own forum.
 created this project during my part-time course object oriented programming with php @ Seneca college.
@@ -19,6 +19,7 @@ clone the project on your desktop, and import the database to your local machine
 ## Built With
 
 * [Laravel 5](https://laravel.com/docs/5.6) - The web framework used
+* [BootStrap](https://getbootstrap.com/) -The css libarary used
 * [Node.js](https://nodejs.org/en/) - Dependency Management
 
 
