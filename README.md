@@ -11,7 +11,7 @@ created this project during my part-time course object oriented programming with
 
 clone the project on your desktop, and import the database to your local machine. localhost://path_to_public/public
 
-### Prerequisites
+### Prerequisite tools
 
 1.Node & NPM
 2.XAMP/WAMP
