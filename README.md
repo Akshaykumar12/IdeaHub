@@ -25,5 +25,5 @@ clone the project on your desktop, and import the database to your local machine
 
 ## Acknowledgments
 
-* Inspiration & Guide from Eric Chen Instructor @ Seneca
+* Inspiration & guidance from Eric Chen Instructor @ Seneca College.
 
